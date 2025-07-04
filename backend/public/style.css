@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+body{
+    background-color: #97B067;
+}
+h1{
+    font-family: monument;
+    color: #2F5249;
+    margin-bottom: 2px;
+}
